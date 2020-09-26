@@ -1,5 +1,5 @@
 # CppSweeper
-A C++ implementation of the classic game, including some basic solving algorithms.
+A C++ solver of the classic game.
 Uses the olc::PixelGameEngine for graphics (https://github.com/OneLoneCoder/olcPixelGameEngine/wiki/olc::PixelGameEngine).
 
 
